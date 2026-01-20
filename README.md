@@ -7,11 +7,11 @@ This is a project i made that allows you to:
 - deleting a member/staff
 
 # Requirements
-python version: 3.11.9
-external packages:
-sqlite3: 3.45.1 
-pandas: 2.3.3
-streamlit: 1.51.0
+-python version: 3.11.9
+-external packages:
+-sqlite3: 3.45.1 
+-pandas: 2.3.3
+-streamlit: 1.51.0
 
 # once you install or have them installed:
 open your terminal in the directory of the python code and then run `streamlit run database_project.py`
